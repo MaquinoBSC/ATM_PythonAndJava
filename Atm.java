@@ -16,7 +16,7 @@ public class Atm {
             System.out.println("PIN incorrecto");
             counter += 1;
             if(counter == 3){
-                System.out.println("Demasiados intentos por hoy, nos vemos!!!");
+                System.out.println("Demasiados intentos por hoy, nos vemos!!");
                 System.exit(0);
             }
             else{

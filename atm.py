@@ -87,7 +87,7 @@ def clean_console():
     os.system('cls')
     
 
-print("Cajero Automativo")
+print("Cajero Automatico")
 pin = input("Ingresa tu PIN: ")
 counter = 0
 
